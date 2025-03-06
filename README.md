@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KingFRANKHOOD
-- 👀 I’m interested in Blockchain development
+- 👀 I am Blockchain developer and i love smart contract testing
 - 🌱 I’m currently learning CAIRO and RUST programming language
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate if you want to
 - 📫 How to reach me ; chibuezemfrancis@gmail.com
 - 😄 Pronouns: male
 - ⚡ Fun fact: I love collaborations
